@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "u-rusdyxbt-one-letter-coffee-or-tea-89877fa0",
+  "phase": "dev",
+  "bundle_sha256": "8964f301e2baae2059f033a5a7d73c00ba235ba69fdb35bb152d879c90236118",
+  "dataset_sha256": null,
+  "harness_version": "harness@c5d8e7efd9555067d6fba9c69a932aa8c91999c3ee899b289c68d3ec9709d8ed node v26.13.1",
+  "scorer_version": "scorer@3db96e441a901607efefd87bcaf2fbd97ae43a5f6fb24a2cb5e410c8c9e7b63e program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "0f9ad98f411c11644ee5a467d2cb49f85d700da533e20bb504b2b47d7c0dee74",
+      "size": 73346
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "477c11b7ea4fe5bae3631804063433139f09649efe1bdf2e2708671c0d4210ac",
+      "size": 17283828
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "b9f4d354159081e2853e934a2d703a26043c5e22881b42396d41d9c53da8b442",
+      "size": 27263
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "e26bd5fa33240a27917da4f85d98f405dfeffc8e3c0d913d221ef5a4a8c35df5",
+      "size": 20688
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "99a8052e8dc3738887d6da8be85f62c1404555b5abb5e903e7cd864b690627d1",
+      "size": 20688
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "ab8d4805bdd8eb2022b2124d71059e48bc75913ce8d71a684c0d502617e6dc91",
+      "size": 3074651
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "b471fa0234ef684e975b2b1279d14ca79dfd2f4ac8d63230a78084f406967b00",
+      "size": 85
+    }
+  ]
+}
